@@ -1,2 +1,2 @@
 use start.bat for windows
-sh for linux
+ sh for linux
